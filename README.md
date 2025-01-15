@@ -1,2 +1,2 @@
 # DependencyInversion
- No Dependency Inversion Principle
+ No Dependency Inversion Principle Example
